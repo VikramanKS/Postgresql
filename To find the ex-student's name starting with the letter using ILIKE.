@@ -1,0 +1,2 @@
+SELECT * FROM ex_students
+WHERE first_name ILIKE 'N%'
