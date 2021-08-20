@@ -1,0 +1,2 @@
+SELECT * FROM ex_students
+WHERE student_id BETWEEN '1' AND '2'
