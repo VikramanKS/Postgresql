@@ -8,5 +8,9 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/130074639-61a3bb4e-ac8e-469e-9e76-c6b1f6663c20.png)
 
+**Finding the Student_id Between 1 and 2**
+
+![image](https://user-images.githubusercontent.com/88196747/130243389-a9ef8574-63e1-4bba-a7ac-186e2e94725e.png)
+
 
 
