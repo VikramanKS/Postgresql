@@ -16,6 +16,10 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/130324533-bc56c928-9257-4cd9-a9ec-6fb511fe0bd6.png)
 
+**Using WHERE condition find the required first name**
+
+
+
 
 
 
