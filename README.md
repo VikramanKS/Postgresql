@@ -20,6 +20,10 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/130356122-2c6653b7-caf9-4489-ae03-5c557a91cd42.png)
 
+**To Limit the Data in the Table**
+
+![image](https://user-images.githubusercontent.com/88196747/130458415-95387353-9dd1-451d-8c43-61361cdf7321.png)
+
 
 
 
