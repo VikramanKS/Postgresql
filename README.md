@@ -24,6 +24,10 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/130458415-95387353-9dd1-451d-8c43-61361cdf7321.png)
 
+**Getting the Average amount of the payment and grouping it with the payment id**
+
+![image](https://user-images.githubusercontent.com/88196747/130651695-b3b75677-2d34-4cb0-b2fa-63c67a7e5f77.png)
+
 
 
 
