@@ -1,0 +1,2 @@
+SELECT payment_id, AVG(amount) FROM payment
+GROUP BY payment_id
