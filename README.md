@@ -28,6 +28,10 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/130651695-b3b75677-2d34-4cb0-b2fa-63c67a7e5f77.png)
 
+**To get the count of the films**
+
+![image](https://user-images.githubusercontent.com/88196747/130792939-88fcb0ce-9217-4923-b426-a08484c0e6b4.png)
+
 
 
 
