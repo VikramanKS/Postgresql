@@ -32,6 +32,11 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/130792939-88fcb0ce-9217-4923-b426-a08484c0e6b4.png)
 
+**To get the Distinct Count of Film-id**
+
+![image](https://user-images.githubusercontent.com/88196747/131055536-a3fb9207-57a4-4b19-bcc3-19a3d4ed9827.png)
+
+
 
 
 
