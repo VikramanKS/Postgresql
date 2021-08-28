@@ -36,6 +36,10 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/131055536-a3fb9207-57a4-4b19-bcc3-19a3d4ed9827.png)
 
+**To find the film_id using the IN function**
+
+![image](https://user-images.githubusercontent.com/88196747/131217992-3f6aa87c-2965-4844-9e83-93873cb630dc.png)
+
 
 
 
