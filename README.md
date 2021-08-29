@@ -40,6 +40,11 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/131217992-3f6aa87c-2965-4844-9e83-93873cb630dc.png)
 
+**Filtering the film_id which is not required**
+
+![image](https://user-images.githubusercontent.com/88196747/131252264-e5c123a6-d882-4732-8eb2-24e6af102878.png)
+
+
 
 
 
