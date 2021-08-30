@@ -44,6 +44,12 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/131252264-e5c123a6-d882-4732-8eb2-24e6af102878.png)
 
+**Performing the Aggregate function**
+
+![image](https://user-images.githubusercontent.com/88196747/131337496-bda64c66-f746-4e32-8cf6-d516c896ef34.png)
+
+
+
 
 
 
