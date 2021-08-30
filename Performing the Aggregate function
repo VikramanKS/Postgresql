@@ -1,0 +1,1 @@
+SELECT MAX(film_id),MIN(film_id),SUM(film_id),ROUND(AVG(film_id),1),COUNT(film_id) FROM film
