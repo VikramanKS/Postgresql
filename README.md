@@ -48,6 +48,11 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/131337496-bda64c66-f746-4e32-8cf6-d516c896ef34.png)
 
+**Getting the SUM of rental rate and Grouping it with film_id.**
+
+![image](https://user-images.githubusercontent.com/88196747/131516770-08e67919-a008-452b-af3e-4fce86a89029.png)
+
+
 
 
 
