@@ -1,0 +1,2 @@
+SELECT SUM(rental_rate),film_id FROM film
+GROUP BY film_id
