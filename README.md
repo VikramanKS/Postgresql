@@ -52,6 +52,10 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/131516770-08e67919-a008-452b-af3e-4fce86a89029.png)
 
+**Renaming the column name**
+
+![image](https://user-images.githubusercontent.com/88196747/131676210-6c5f6f31-9977-4464-b9c0-e789b423849c.png)
+
 
 
 
