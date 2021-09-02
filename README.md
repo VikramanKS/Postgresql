@@ -56,7 +56,7 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/131676210-6c5f6f31-9977-4464-b9c0-e789b423849c.png)
 
-**Inner Join, joining the Customer and Payment table
+**Inner Join, joining the Customer and Payment table**
 
 ![image](https://user-images.githubusercontent.com/88196747/131838835-5682eba3-8fb9-4096-9aee-733fe5f56af3.png)
 
