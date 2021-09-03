@@ -60,6 +60,10 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/131838835-5682eba3-8fb9-4096-9aee-733fe5f56af3.png)
 
+**FULL OUTER JOIN joining the Customer and Payment table**
+
+![image](https://user-images.githubusercontent.com/88196747/132012306-249f6955-17e8-4fda-9184-752be5c4022e.png)
+
 
 
 
