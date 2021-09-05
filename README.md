@@ -68,6 +68,11 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/132094667-a09a6fe1-607a-46fd-a651-7c444ba28590.png)
 
+**By using the Right Join joining the film table and inventory table**
+
+![image](https://user-images.githubusercontent.com/88196747/132127729-4beb2b00-863f-4d0b-b23b-f92fbb15787a.png)
+
+
 
 
 
