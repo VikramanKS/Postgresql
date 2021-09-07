@@ -72,9 +72,14 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/132127729-4beb2b00-863f-4d0b-b23b-f92fbb15787a.png)
 
-Combining the two table data
+**Combining the two table data**
 
 ![image](https://user-images.githubusercontent.com/88196747/132222759-cea4077a-f8e0-4a29-9a3e-f8b8608f4e67.png)
+
+**Combining the two table data by using the UNION ALL**
+
+![image](https://user-images.githubusercontent.com/88196747/132330220-9f187f49-2c8c-4d2c-ba4d-9d68de50dc67.png)
+
 
 
 
