@@ -80,6 +80,11 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/132330220-9f187f49-2c8c-4d2c-ba4d-9d68de50dc67.png)
 
+**Getting the Data only from the payment table**
+
+![image](https://user-images.githubusercontent.com/88196747/132511739-0d4a2f27-7141-4dcf-b29c-1398c76292c7.png)
+
+
 
 
 
