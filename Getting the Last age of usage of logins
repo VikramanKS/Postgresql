@@ -1,0 +1,1 @@
+SELECT AGE(last_update) FROM film
