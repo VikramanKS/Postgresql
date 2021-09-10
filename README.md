@@ -88,6 +88,11 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/132664844-3c93f005-564e-4794-a212-c430203a1b49.png)
 
+**Converting the Last Update to desired Data format**
+
+![image](https://user-images.githubusercontent.com/88196747/132858019-5c622901-a707-4bc1-93eb-b8bf79241569.png
+
+
 
 
 
