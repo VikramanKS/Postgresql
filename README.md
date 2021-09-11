@@ -92,6 +92,11 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/132858019-5c622901-a707-4bc1-93eb-b8bf79241569.png
 
+**Using UPDATE function modifying the existing records**
+
+![image](https://user-images.githubusercontent.com/88196747/132946736-150cf595-4216-424e-8659-ce3a3fd6c7b4.png)
+
+
 
 
 
