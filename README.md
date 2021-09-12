@@ -96,6 +96,11 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/132946736-150cf595-4216-424e-8659-ce3a3fd6c7b4.png)
 
+**To Delete a Row from a table **
+
+![image](https://user-images.githubusercontent.com/88196747/132986786-41e4a6b2-6398-4bf5-8088-f8f4410228d0.png)
+
+
 
 
 
