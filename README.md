@@ -100,6 +100,10 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/132986786-41e4a6b2-6398-4bf5-8088-f8f4410228d0.png)
 
+**Adding a new column using ALTER function**
+
+![image](https://user-images.githubusercontent.com/88196747/133081405-787841ed-f460-48f9-9b00-262264d3545a.png)
+
 
 
 
