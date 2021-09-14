@@ -104,6 +104,11 @@
 
 ![image](https://user-images.githubusercontent.com/88196747/133081405-787841ed-f460-48f9-9b00-262264d3545a.png)
 
+**Using Drop function deleting a Column**
+
+![image](https://user-images.githubusercontent.com/88196747/133252209-554ba6fb-2495-456b-9521-a8d889afd728.png)
+
+
 
 
 
